@@ -27,7 +27,7 @@ We need a key to allow the external timer to "click" the Run button on your repo
 1.  Go to [cron-job.org](https://cron-job.org/) (Create free account).
 2.  **Create Cronjob**.
 3.  **URL**: `https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO_NAME/dispatches`
-    *   Example: `https://api.github.com/repos/ziadhosaaam/mostaql-scraper/dispatches`
+    *   Example: `https://api.github.com/repos/ziadhosaaamSHA/mostaql-scraper/dispatches`
 4.  **Execution Schedule**: Every 2 minutes.
 5.  **Advanced / HTTP Headers** (Important!):
     *   Click "Add Header".
