@@ -1,0 +1,6 @@
+{
+  "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "telegram_chat_id": "YOUR_TELEGRAM_CHAT_ID",
+  "scrape_interval_minutes": 2,
+  "target_url": "https://mostaql.com/projects?category=development,ai-machine-learning&sort=latest"
+}

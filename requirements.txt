@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+schedule
+python-dotenv
+flask
+gunicorn
+urllib3
